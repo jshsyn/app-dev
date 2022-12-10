@@ -1,9 +1,14 @@
 # app-dev
-My first repository
+**My first repository**
 
-Mark Joshua C. Sayen
+*Mark Joshua C. Sayen*
 
-## My favorite movie!
+
+
+## My favorite anime movie!
+
+
+
 ## My favorite series!
 
 sdfsd
