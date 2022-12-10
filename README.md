@@ -1,3 +1,13 @@
 # app-dev
 My first repository
-##  Favorite series
+
+Mark Joshua C. Sayen
+
+## My favorite movie!
+## My favorite series!
+
+sdfsd
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Titles |
+| Paragraph | Text |
