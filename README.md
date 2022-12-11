@@ -41,9 +41,9 @@
   <p>
 Yumetourou (Dream Lanturn)
 
-Music and Lyrics by Youjirou Noda
+Music and Lyrics by [Youjirou Noda](https://www.imdb.com/name/nm8971898/?ref_=tt_trv_snd)
 
-Arranged and Performed by Radwimps
+Arranged and Performed by [Radwimps](https://www.imdb.com/name/nm8052728/?ref_=tt_trv_snd)
   </p>
 </details>
  
