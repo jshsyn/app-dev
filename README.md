@@ -4,7 +4,7 @@
 
 *`Mark Joshua C. Sayen`*
 
-# :sparkles:My favorite anime movie - Kimi no Na wa.
+# :sparkles:My favorite anime movie - *Kimi no Na wa.*
 
 ![this is an image](kiminonawa.jpg "animemoviepic")
 
@@ -50,9 +50,8 @@
 
 ---
 
-# :boom:My favorite anime series - KonoSuba
+# :boom:My favorite anime series - *KONOSUBA: God's blessing on this wonderful world!*
 
-sdfsd
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Titles |
