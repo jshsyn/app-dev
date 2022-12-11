@@ -4,7 +4,7 @@
 
 *`Mark Joshua C. Sayen`*
 
-# :sparkles:My favorite anime movie - *Kimi no Na wa.*
+# :sparkles:&nbsp;My favorite anime movie - *Kimi no Na wa.*
 
 ![this is an image](kiminonawa.jpg "animemoviepic")
 
@@ -65,7 +65,7 @@ Arranged and Performed by [Radwimps](https://www.imdb.com/name/nm8052728/?ref_=t
 
 ---
 
-# :boom:My favorite anime series - *KONOSUBA: God's blessing on this wonderful world!*
+# :boom:&nbsp;My favorite anime series - *KONOSUBA: God's blessing on this wonderful world!*
 
 ![this is konosuba image](konosubs.jpg "animeseriespic")
 
