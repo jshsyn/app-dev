@@ -54,7 +54,7 @@
 
 ![this is konosuba image](konosubs.jpg "animeseriespic")
 
-> ***KonoSuba: God's Blessing on This Wonderful World!*** is a Japanese light novel series written by [Natsume Akatsuki](https://en.wikipedia.org/wiki/Natsume_Akatsuki). After a traffic accident, Kazuma Satou’s disappointingly brief life was supposed to be over, but he wakes up to see a beautiful girl before him. She claims to be a goddess, Aqua, and asks if he would like to go to another world and bring only one thing with him. Kazuma decides to bring the goddess herself, and they are transported to a fantasy world filled with adventure, ruled by a demon king. An anime film adaptation produced by J.C.Staff, titled KonoSuba: God's Blessing on This Wonderful World! Legend of Crimson, premiered on August 30, 2019. Drive intends premiering a third anime television series on April 2023, through its adaptation of KonoSuba: An Explosion on This Wonderful World!.
+> ***KonoSuba: God's Blessing on This Wonderful World!*** is a Japanese light novel series written by [Natsume Akatsuki](https://en.wikipedia.org/wiki/Natsume_Akatsuki). Konosuba is an anime that uses traditional anime archetypes to poke fun at specific genres. The story is simple, otaku boy dies and gets transported to another world where he finds himself surrounded by attractive females. The format of the show is similar to an RPG game where each character takes up roles like the healer, fighter and others. However, the setting is where these repetitive elements end. The anime takes on many twists and turns and has a high comedic quotient, making it stand out among others of the same genre.
 
 ## **Top Cast**
 | Voice Actors | Characters|
@@ -64,19 +64,18 @@
 |Amamiya, Sora| Aqua|
 |Kayano, Ai |Dustiness Ford, Lalatina|
 
-## **Did You Know**
+## **Quick Review**
  <details>
-  <summary>Crazy credits</summary>
+  <summary>About Konosuba</summary>
   <p>
-             At the end of the film, as both the lead characters simultaneously says "Your name...", the title of the film appears.
+           Konosuba is a light novel series written by Natsume Akatsuki and illustrated by Kurone Mishima. Currently, there are a total of 16 volumes of the light novel series, and 17th is to be believed to be the last one, 5 of them have been adapted in the form of anime.
   </p>
 </details>
 
   <details>
-  <summary>Trivia</summary>
+  <summary>Characters</summary>
   <p>
-                The red braided cord that Mitsuha wears represents the invisible red string of fate that is said to connect someone
-       to their fated person, according to Japanese tradition.
+          The characters are what make Konosuba really special. None of the characters is extremely powerful or overpowered. Even as a group, they have many limitations and are not the greatest. They have flaws that hold them back, and sometimes, arrogance gets the better of them. Despite the flaws, they eventually accept each other and drive the show towards a satisfying ending.
   </p>
 </details>
  
