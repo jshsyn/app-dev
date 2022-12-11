@@ -52,6 +52,8 @@
 
 # :boom:My favorite anime series - *KONOSUBA: God's blessing on this wonderful world!*
 
+![this is konosuba image](konosuba.jpg "animeseriespic")
+
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Titles |
