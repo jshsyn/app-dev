@@ -20,20 +20,35 @@
 |Nobunaga Shimazaki | Tsukasa Fujii|
 
 ## **Did You Know**
+![this is an image](mitsu.png "animemoviepic")
  <details>
-  <summary>Crazy credits</summary>
+  <summary><b>Crazy credits</b></summary>
   <p>
                At the end of the film, as both the lead characters simultaneously says "Your name...", the title of the film appears.
   </p>
 </details>
 
   <details>
-  <summary>Trivia</summary>
+  <summary><b>Trivia</b></summary>
   <p>
                   The red braided cord that Mitsuha wears represents the invisible red string of fate that is said to connect someone
        to their fated person, according to Japanese tradition.
   </p>
 </details>
+
+  <details>
+  <summary><b>Soundtracks</b></summary>
+  <p>
+Yumetourou (Dream Lanturn)
+
+Music and Lyrics by Youjirou Noda
+
+Arranged and Performed by Radwimps
+  </p>
+</details>
+ 
+
+ 
  
 ## **Other Movies by Makoto Shinkai**
 
@@ -66,14 +81,14 @@
 
 ## **Quick Review**
  <details>
-  <summary>About Konosuba</summary>
+  <summary><b>About Konosuba</b></summary>
   <p>
            Konosuba is a light novel series written by Natsume Akatsuki and illustrated by Kurone Mishima. Currently, there are a total of 16 volumes of the light novel series, and 17th is to be believed to be the last one, 5 of them have been adapted in the form of anime.
   </p>
 </details>
 
   <details>
-  <summary>Characters</summary>
+  <summary><b>Characters</b></summary>
   <p>
           The characters are what make Konosuba really special. None of the characters is extremely powerful or overpowered. Even as a group, they have many limitations and are not the greatest. They have flaws that hold them back, and sometimes, arrogance gets the better of them. Despite the flaws, they eventually accept each other and drive the show towards a satisfying ending.
   </p>
