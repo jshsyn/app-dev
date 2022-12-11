@@ -21,19 +21,27 @@
 |Nobunaga Shimazaki | Tsukasa Fujii|
 
 ## **Did You Know**
-* **Crazy credits**
+ <details open>
+  <summary>Crazy credits</summary>
+  <p>
+            At the end of the film, as both the lead characters simultaneously says "Your name...", the title of the film appears.
+  </p>
+</details>
 
-    At the end of the film, as both the lead characters simultaneously says "Your name...", the title of the film appears.
-* **Trivia**
-
-    The red braided cord that Mitsuha wears represents the invisible red string of fate that is said to connect someone to their fated person, according to Japanese tradition.
-
+  <details open>
+  <summary>Trivia</summary>
+  <p>
+               The red braided cord that Mitsuha wears represents the invisible red string of fate that is said to connect someone
+       to their fated person, according to Japanese tradition.
+  </p>
+</details>
+ 
 ## **Other Movies by Makoto Shinkai**
 
-* Weathering with You
-* Suzume no Tojimari
-* The Garden of Words
-* 5 Centimeters per Second
+* Weathering with You (2019)
+* Suzume no Tojimari (2022)
+* The Garden of Words (2013)
+* 5 Centimeters per Second(2007)
 
 ## **YouTube Trailer**
 <p> <!--align="center"-->
