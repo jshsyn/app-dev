@@ -80,6 +80,7 @@ Arranged and Performed by Radwimps
 |Kayano, Ai |Dustiness Ford, Lalatina|
 
 ## **Quick Review**
+![this is konosuba image](konosuba1.png "animeseriespic")
  <details>
   <summary><b>About Konosuba</b></summary>
   <p>
