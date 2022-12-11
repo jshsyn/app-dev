@@ -20,7 +20,7 @@
 |Nobunaga Shimazaki | Tsukasa Fujii|
 
 ## **Did You Know**
- <details open>
+ <details>
   <summary>Crazy credits</summary>
   <p>
             At the end of the film, as both the lead characters simultaneously says "Your name...", the title of the film appears.
