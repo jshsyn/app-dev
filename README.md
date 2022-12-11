@@ -50,7 +50,7 @@ Arranged and Performed by Radwimps
 
  
  
-## **Other Movies by Makoto Shinkai**
+## :tv:**Other Movies by Makoto Shinkai**
 
 * [Weathering with You (2019)](https://www.imdb.com/title/tt9426210/?ref_=fn_al_tt_1)
 * [Suzume no Tojimari (2022)](https://www.imdb.com/title/tt16428256/?ref_=nv_sr_srsg_0)
@@ -95,7 +95,7 @@ Arranged and Performed by Radwimps
   </p>
 </details>
  
-## **Watching Order**
+## :tv:**Watching Order**
 
 1. Season 1: KonoSuba: God’s Blessing on This Wonderful World! (2016)
    * OVA 1: Kono Subarashii Sekai ni Shukufuku wo: Kono Subarashii Choker ni Shukufuku wo! (2016)
