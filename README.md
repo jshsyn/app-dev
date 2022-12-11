@@ -28,10 +28,12 @@
 
     The red braided cord that Mitsuha wears represents the invisible red string of fate that is said to connect someone to their fated person, according to Japanese tradition.
 
-* **Soundtracks**
-    Yumetourou (Dream Lanturn)
-    Music and Lyrics by Youjirou Noda
-    Arranged and Performed by Radwimps
+## **Other Movies by Makoto Shinkai**
+
+* Weathering with You
+* Suzume no Tojimari
+* The Garden of Words
+* 5 Centimeters per Second
 
 ## **YouTube Trailer**
 <p> <!--align="center"-->
@@ -41,7 +43,7 @@
 
 ---
 
-# :boom:My favorite anime series!
+# :boom:My favorite anime series - KonoSuba
 
 sdfsd
 | Syntax | Description |
